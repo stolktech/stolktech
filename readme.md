@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on viaBOVAG.nl & Start2Ride<br>🌱 I’m currently learning React-Native
+🔭 I’m currently working on viaBOVAG.nl & Start2Ride (Both Next.js projects)<br>🌱 I’m currently learning React-Native
 
 
 # 💻 Tech Stack:
